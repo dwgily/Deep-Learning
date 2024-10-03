@@ -5,3 +5,4 @@ Each project folder contains code, data, and relevant documentation to help you 
 
 1. [Bird Species Classification](./Bird_Species_Classification/)
 2. [Pothole Detection](./Pothole_Detection/)
+3. [Waste Management](./Waste_Management/)
